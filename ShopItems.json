@@ -13,8 +13,10 @@
         "Price": 2000,
         "Ability": {
             "Buff": {
-                "Type": "",
-                "Time": 10
+                "Time": 10,
+                "Params": {
+                    "AddStatValue_1": 100
+                }
             }
         }
     }
